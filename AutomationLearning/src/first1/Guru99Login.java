@@ -22,6 +22,12 @@ public class Guru99Login {
     public Guru99Login(WebDriver driver){
 
         this.driver = driver;
+        
+        System.out.println("Testing");
+
+        
+        System.out.println("Testing");
+
 
     }
 
